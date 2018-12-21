@@ -1,0 +1,29 @@
+{
+  "name": "rest_repo_ex1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjseymour66/rest_repo_ex1.git"
+  },
+  "keywords": [
+    "'first",
+    "rest",
+    "api'"
+  ],
+  "author": "Ryan Seymour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjseymour66/rest_repo_ex1/issues"
+  },
+  "homepage": "https://github.com/rjseymour66/rest_repo_ex1#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.0"
+  }
+}
